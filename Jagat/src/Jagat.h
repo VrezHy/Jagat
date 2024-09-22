@@ -2,8 +2,8 @@
 
 //For use Jagat Application
 
-#include <stdio.h>
 #include "Jagat/Application.h"
+#include "Jagat/Log.h"
 
 // ---Entry Point------------------
 #include "Jagat/EntryPoint.h"
